@@ -1,3 +1,4 @@
+//terminal do NodeJS
 const http = require('http');
 undefined
 const hostname = '127.0.0.1';
